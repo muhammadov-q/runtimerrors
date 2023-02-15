@@ -39,7 +39,7 @@
 
 .plane-switch input + div:before {
   width: 42px;
-  right: 2px;
+  right: 50%;
   top: 4px;
   height: 1px;
   background: var(--street-line);
