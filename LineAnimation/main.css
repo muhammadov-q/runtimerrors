@@ -1,7 +1,6 @@
-/* === removing default button style ===*/
 .button {
-  margin: 0;
-  height: auto;
+  margin: 50%;
+  height: 50%;
   background: transparent;
   padding: 0;
   border: none;
